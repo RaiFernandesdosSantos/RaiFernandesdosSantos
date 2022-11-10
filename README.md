@@ -1,8 +1,8 @@
 <h1> Bem-Vindos! Eu sou o Rai<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-- 💻 Desenvolvedor Back-End Jr
+- 💻 Estudante
 
-- 🔥  Atualmente sou freelancer
+- 🔥 Atualmente sou freelancer
 
 - 👨‍🎓 Sou formado em Técnico em informática pelo Instituto Federal De Mato Grosso Do Sul, e estou cursando Análise e Desenvolvimento de Sistemas.
 
